@@ -26,7 +26,7 @@ Da die Implementierung vollständig auf einem Linux System stattfand, beziehen s
 ### Voraussetzungen
 - Python 3.10.x mit pip
 - Entwicklungsumgebung, es wird Visual Studio Code empfohlen
-- Klonen des GitHub Repositories `git clone https://github.com/jns-code-hub/BachelorArbeit-FederatedLearning.git`
+- Klonen des GitHub Repositories `git clone https://github.com/jns-code-hub/BachelorarbeitFederatedLearning.git`
 
 ### Erstellung der Python Umgebung
 Zur Erstellung der Python Umgebung müssen folgende Schritte im Basisverzeichnis durchgeführt werden:
